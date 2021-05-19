@@ -10,7 +10,7 @@
             "userId": 1,
             "id": 2,
             "title": "do the laundry",
-            "completed": false
+            "completed": true
         }
     ]
 }
